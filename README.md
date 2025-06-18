@@ -10,7 +10,7 @@ Create a web app with a two-panel grid layout occupying 80% of the page width.
   Right panel: Meeting notes editor.
 
 Left Panel – Calendar Integration:
-  Connect to Google Calendar via API.
+  Connect to Google Calendar via API or OAuth.
   List today’s meetings (add a dummy meeting if none exist).
   On clicking a meeting, expand it inline to show:
     Attendees grouped by status: Accepted / Declined / No Response
